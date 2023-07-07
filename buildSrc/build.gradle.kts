@@ -13,5 +13,5 @@ repositories {
 dependencies {
     implementation(kotlin("gradle-plugin", "1.8.0"))
     implementation(kotlin("serialization", "1.8.0"))
-    implementation("com.android.tools.build:gradle:7.4.0-beta02")
+    implementation("com.android.tools.build:gradle:7.4.1")
 }
